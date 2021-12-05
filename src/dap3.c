@@ -18,6 +18,8 @@
  *  along with Dap.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+#include <stdio.h>
+#include <math.h>
 #include "externs.h"
 #include "ps.h"
 #include "dap_make.h"
